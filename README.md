@@ -5,6 +5,7 @@
 **Access granted** - KeycardJanitor, KeycardScientist, KeycardResearchCoordinator,
 KeycardZoneManager, KeycardGuard, KeycardMTFPrivate, KeycardContainmentEngineer,
 KeycardMTFOperative, KeycardMTFCaptain, KeycardFacilityManager, KeycardChaosInsurgency, KeycardO5
+
 **Access denided** - KeycardChaosInsurgency, absence card
 
 
